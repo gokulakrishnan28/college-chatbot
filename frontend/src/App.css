@@ -1,0 +1,12 @@
+/* App.css */
+.App {
+  position: relative;
+}
+
+/* Ensure chatbot is fixed and above everything */
+.chatbot-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 10000; /* Very high z-index */
+}
