@@ -1,138 +1,91 @@
-College Chatbot
+# SSMIET Assistant Chatbot
 
 ## Overview
 
-College Chatbot is a full-stack web application developed to help students quickly access academic information, campus resources, announcements, and frequently asked questions through an interactive chatbot interface.
+SSMIET Assistant Chatbot is a full-stack web application developed to help students access information about courses, admissions, fees, placements, and campus facilities through an interactive chatbot interface.
 
-The project consists of a React-based frontend and a Node.js backend that handles chatbot interactions and data processing. It was developed as a learning project to gain hands-on experience in full-stack web development, API integration, and chatbot system design.
+Built using React.js and Node.js, this project was created to gain practical experience in full-stack development and chatbot design.
 
----
+## Screenshots
+
+### Chat Widget
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/97bfb53d-0f79-42f6-a802-d9ef6668ef20" />
+
+
+### Chat Interface
+
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/d2da694d-ef99-4861-b7eb-b78c6319ae0d" />
+
 
 ## Features
 
-* Interactive chatbot interface
-* Responsive React frontend
-* Node.js backend integration
-* FAQ and information retrieval system
-* User-friendly design
-* Modular project architecture
-* Real-time request handling
+- Course and program information
+- Admission guidance
+- Fee structure details
+- Placement information
+- Campus facilities information
+- Interactive chatbot interface
+- Responsive design
 
----
+## Technologies Used
 
-## Tech Stack
+**Frontend**
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-### Frontend
+**Backend**
+- Node.js
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
-
----
+**Tools**
+- Git
+- GitHub
+- VS Code
 
 ## Project Structure
 
 ```text
 college-chatbot/
-│
 ├── backend/
-│   ├── llm/
-│   ├── scraper.js
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
 ├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── package-lock.json
-│
+├── screenshots/
 ├── .gitignore
 └── README.md
 ```
 
----
-
 ## Installation
-
-### Clone Repository
 
 ```bash
 git clone https://github.com/gokulakrishnan28/college-chatbot.git
 cd college-chatbot
-```
 
-### Install Backend Dependencies
-
-```bash
+# Backend
 cd backend
 npm install
-```
 
-### Install Frontend Dependencies
-
-```bash
+# Frontend
 cd ../frontend
 npm install
 ```
 
----
+## Run the Project
 
-## Run Backend
+Backend:
 
 ```bash
 cd backend
 node server.js
 ```
 
----
-
-## Run Frontend
+Frontend:
 
 ```bash
 cd frontend
 npm start
 ```
 
----
-
-## Learning Outcomes
-
-This project helped me gain practical experience in:
-
-* Full-stack web development
-* React.js application development
-* Backend API development with Node.js
-* Frontend-backend communication
-* Web scraping concepts
-* Git and GitHub workflow
-* Project structure and deployment preparation
-
----
-
-## Future Improvements
-
-* Enhanced NLP capabilities
-* AI-powered response generation
-* Database integration
-* Authentication system
-* Voice interaction support
-* Improved chatbot accuracy
-
----
 
 ## Author
 
@@ -140,9 +93,4 @@ This project helped me gain practical experience in:
 
 GitHub: https://github.com/gokulakrishnan28
 
----
-
-## License
-
-This project is intended for educational and learning purposes.
-
+LinkedIn: https://www.linkedin.com/in/gokulakrishnan-k
