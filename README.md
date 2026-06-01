@@ -93,4 +93,4 @@ npm start
 
 GitHub: https://github.com/gokulakrishnan28
 
-LinkedIn: https://www.linkedin.com/in/gokulakrishnan-k/
+LinkedIn: https://www.linkedin.com/in/gokulakrishnan-k-ab8720393/
